@@ -12,4 +12,4 @@
 * React
 * React Native
 
-**Não faço parte da Equipe, só estou estudando todo conteúdo até então passado para eu adquirir um mais conhecimento 😃 Muito obrigado à todos da Rocketseat! ❤️
+**Não faço parte da Equipe, só estou estudando todo conteúdo até então passado para eu adquirir mais conhecimento. 😃 Muito obrigado à todos da Rocketseat! ❤️**
